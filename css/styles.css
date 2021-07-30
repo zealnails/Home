@@ -102,14 +102,14 @@ display: inline-grid;}
   text-align: left;}
 th {padding-left: 90px;}
 /* nails */
-.menu2{  background-color: #b67162;
+.menu2{  background-color: #D6D2C4;
 margin: 10px 10px;
      width: 100%;
      height: auto;
      text-align: left;
   margin-left: 0;  }
 
-.menu3{  background-color: #b67162;
+.menu3{  background-color: #D6D2C4;
 margin: 10px 10px;
  margin-left: 0;
   width: 100%;
@@ -121,7 +121,7 @@ line-height: 1.5;}
   float: right;
   margin: 0 10px 0 30px;
 height:100%;}
-.menu4{ background-color: #b67162;
+.menu4{ background-color: #D6D2C4;
 margin: 10px 10px;
  width: 100%;
  height: auto;
@@ -130,7 +130,7 @@ line-height: 2;
 margin-left: 0;}
 @media (max-width: 1028px) {
   .aaa { text-align: center; } .ab{ padding-left: 30px;}}
- .menu5{ background-color: #b67162;
+ .menu5{ background-color: #D6D2C4;
      margin: 10px 10px;
     width: 100%;
     height: auto;
